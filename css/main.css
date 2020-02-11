@@ -1,0 +1,26 @@
+.hidden {
+	visibility: hidden;
+}
+
+h4 {
+	font-family: Ubuntu Light, Arial;
+	color: #b4ad9e; 
+	font-size: 14px;
+}
+
+h3 {
+	font-family: PlayfairDisplay, serif;
+	color: #b4ad9e; 
+	font-size: 30px;
+}
+.main-container{
+	width: 1200px;
+	justify-content: center;
+}
+
+.logo a {}
+
+.topNav {
+	display: flex;
+	flex-direction: row;
+}
